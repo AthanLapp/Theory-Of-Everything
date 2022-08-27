@@ -13,4 +13,5 @@ turtle.screensize(1000000,1000000)
 for i in range(1,1000000):
     turtl1.forward(i)
     turtl1.left(i)
+screen.getshapes()
 
